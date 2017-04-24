@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  iKid
 //
 //  Created by William on 4/24/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class PunViewController: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()

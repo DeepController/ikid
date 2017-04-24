@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FirstViewController.swift
 //  iKid
 //
 //  Created by William on 4/24/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class GoodViewController: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
