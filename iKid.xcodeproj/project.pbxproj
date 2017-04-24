@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -99,13 +99,12 @@
 				TargetAttributes = {
 					3D37E9DC1EAE660D007B732C = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 46CDY537Z3;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 3D37E9D81EAE660D007B732C /* Build configuration list for PBXProject "iKid" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
