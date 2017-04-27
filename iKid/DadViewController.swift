@@ -10,9 +10,15 @@ import UIKit
 
 class DadViewController: UIViewController {
 
+	@IBOutlet weak var goodButton: UIButton!
+	@IBOutlet weak var punButton: UIButton!
+	@IBOutlet weak var currentButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+		currentButton.setTitleColor(UIColor.orange, for: .normal)
+		let blue = UIColor(colorLiteralRed: 102/255, green: 1.000, blue: 1.000, alpha: 1.000)
+		goodButton.setTitleColor(blue, for: .normal)
+		punButton.setTitleColor(blue, for: .normal)
         // Do any additional setup after loading the view.
     }
 
